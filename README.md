@@ -15,4 +15,4 @@ I turn messy data and business questions into working, measured AI systems: buil
 ## How I work
 Eval first, defence in depth, honest results. Each repo says what was measured and what wasn't.
 
-**Stack:** Python · SQL · TypeScript · Airflow · dbt · Spark · Docker · Temporal
+**Stack:** Don't worry, we'll find the right tech for the problem. (Usually Python, SQL, and a lot of coffee.)
